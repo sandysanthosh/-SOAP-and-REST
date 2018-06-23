@@ -33,7 +33,7 @@ test the web service:
 
 soap ui:
 
-wsdl 2.0 contrast web servce:
+wsdl 2.0 contrast web service:
 
 xml based document:
 
@@ -71,7 +71,12 @@ soap:addresslcoation="http://"
 ->wsdl generate artifactes
 
 
+4 types:
 
+<envelope>
+header
+body->error-code
+</envelope>
 
 
 
