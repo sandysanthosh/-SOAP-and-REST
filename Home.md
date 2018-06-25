@@ -9,7 +9,7 @@ message
 operation
 porttype
 
-xml schema definiton:
+->soap tested using soapUI Tool
 
 
 type: user profile web service
