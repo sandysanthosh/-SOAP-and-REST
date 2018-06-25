@@ -3,7 +3,7 @@ Welcome to the SOAP-Web-Service wiki!
 wsdl 
 web service descrption language
 
-defenition
+definition
 types
 message
 operation
