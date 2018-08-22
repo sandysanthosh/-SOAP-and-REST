@@ -103,3 +103,22 @@ soap:encodingStyle="http://www.w3.org/2003/05/soap-encoding">
 
 
 
+
+
+xmlns:amz="http://www.amzaon.com/order"
+xmlns:ebay="http://www.amzaon.com/order"
+
+
+namespace xml:
+xmlns:
+prefix:amz
+
+<order xmlns:amz="http://www.amzaon.com/order">
+<amz:lineitem/>
+<amz:shippingaddress/>
+
+
+<order xmlns:ebay="http://www.amzaon.com/order">
+<amz:lineitem/>
+<amz:shippingaddress/>
+
