@@ -20,6 +20,7 @@ message:input,output
 operation: methods in programming lanuage
 porttype: root element 
 
+name space
 
 binding  name=?
 service element=?
